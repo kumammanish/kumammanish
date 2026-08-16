@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I am an **Azure Cloud Architect** and **FinOps Consultant** with over **14 years of experience** building, operating, and optimizing enterprise-scale cloud environments. I specialize in cloud governance, cost management, infrastructure automation, and Site Reliability Engineering (SRE) practices.
+I am an **Azure Cloud Architect** and **FinOps Consultant** with over **14+ years of experience** building, operating, and optimizing enterprise-scale cloud environments. I specialize in cloud governance, cost management, infrastructure automation, and Site Reliability Engineering (SRE) practices.
 
 * 💸 **FinOps Champion:** Consistently delivering 20–30% cloud cost reductions through governance and cost-management frameworks.
 * 🤖 **Automation Advocate:** Reducing MTTR by ~25% using AI-powered automation and robust observability tools.
