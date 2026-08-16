@@ -21,29 +21,17 @@ I am an **Azure Cloud Architect** and **FinOps Consultant** with over **14 years
 ## 🛠️ Tech Stack & Tooling
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="AKS" />
-  <img src="https://img.shields.io/badge/-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Hyper-V" />
-  <img src="https://img.shields.io/badge/-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="ARM Templates" />
-  <img src="https://img.shields.io/badge/-0078D4?style=for-the-badge&logo=azure-pipelines&logoColor=white" alt="Bicep" />
-  <img src="https://img.shields.io/badge/-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
-  <img src="https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white" alt="Azure Functions" />
-  <img src="https://img.shields.io/badge/-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Logic Apps" />
-  <img src="https://img.shields.io/badge/-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Azure Policy" />
-  <img src="https://img.shields.io/badge/-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="RBAC Governance" />
-  <img src="https://img.shields.io/badge/-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Entra ID" />
-  <img src="https://img.shields.io/badge/-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Defender for Cloud" />
-  <img src="https://img.shields.io/badge/-4CAF50?style=for-the-badge&logo=prometheus&logoColor=white" alt="Observability" />
-  <img src="https://img.shields.io/badge/-FF9800?style=for-the-badge&logo=pagerduty&logoColor=white" alt="Incident Management" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,kubernetes,docker,terraform,githubactions,git,powershell,py,bash,prometheus,windows,linux" />
+  </a>
 </p>
+
+### ☁️ Specialized Capabilities
+* 🐳 **Containers & Compute:** Azure Kubernetes Service (AKS), Hyper-V
+* ⚙️ **Serverless & Integration:** Azure Functions, Logic Apps
+* 🏗️ **IaC & CI/CD Pipelines:** Azure DevOps, ARM Templates, Bicep
+* 🛡️ **Governance & Security:** Azure Policy, Azure RBAC, Microsoft Entra ID, Defender for Cloud
+* 📊 **Operations & SRE:** Observability & SRE, Incident Management (PagerDuty)
 
 ---
 
