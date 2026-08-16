@@ -24,3 +24,4 @@ Notes
 
 - This README is generated from a template and includes a small Actions workflow to validate Markdown rendering and optionally run approved automation in a controlled way.
 - Secrets and tokens are intentionally left out; actions are manual and require explicit repository secrets to run bots.
+\n## Quick profile summary\n\nA concise profile summary (from portfolio):\n\n- See the public gist: https://gist.github.com/kumammanish/483143b3518c84e9d7ea54eb740f4ec6\n
