@@ -86,3 +86,72 @@ Azure Cloud Architect and FinOps Consultant with 14+ years of experience buildin
 - Hindi (Native)
 - Bengali (Intermediate)
 
+
+
+<!-- PROFILE_SUMMARY_START -->
+<p align="center">
+  <img src="https://kumammanish.github.io/assets/images/profile.png" width="160" alt="Manish Kumar" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Manish Kumar</h1>
+<h3 align="center">☁️ Azure Cloud Architect • 💸 FinOps Consultant • ⚙️ DevOps Engineer</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kumammanish&label=Profile%20views&color=0e75b6&style=flat" alt="kumammanish" /> </p>
+
+<p align="center">
+  <a href="https://kumammanish.github.io/"><img alt="website" src="https://img.shields.io/badge/Portfolio-kumammanish.github.io-0a66c2"/></a>
+  <a href="https://github.com/kumam"><img alt="github" src="https://img.shields.io/badge/GitHub-kumam-181717?logo=github"/></a>
+  <a href="https://www.linkedin.com/in/kumam/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin"/></a>
+</p>
+
+---
+
+## 🚀 Summary
+
+Azure Cloud Architect and FinOps Consultant with 14+ years of experience delivering cloud automation, infrastructure-as-code, and cost-optimization programs. I build resilient, secure platforms and automated pipelines that reduce cost and time-to-value.
+
+## 🔎 Featured Projects
+
+- 🧠 **AI-Powered Incident Management System** — Azure Functions & Service Bus; reduced MTTR by ~25%. ([repo](https://github.com/kumam))
+- 💰 **FinOps Cost Optimization Framework** — Azure Cost Management + PowerShell automation; delivered 20–30% cost reductions.
+- 🏗️ **Enterprise IaC Templates** — Reusable Terraform/ARM stacks with CI/CD for compliance and reliability.
+
+## 🛠️ Tech & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="36" />
+  <img src="https://www.vectorlogo.zone/logos/microsoftazure/microsoftazure-icon.svg" alt="azure" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="36" />
+</p>
+
+## 🏅 Certifications
+
+- Microsoft Certified: Azure AI Engineer Associate (AI-102)
+- Microsoft Certified: Azure Security Engineer Associate (AZ-500)
+- Microsoft Certified: Azure AI Fundamentals (AI-900)
+- Microsoft Azure Infrastructure Solutions
+- Exam 534: Architecting Microsoft Azure Solutions
+- Exam 533: Implementing Microsoft Azure Solutions
+- Microsoft Certified Specialist: Server Virtualization with Hyper-V
+- ITIL Foundation Certificate
+- **GH-300**
+
+## 🗣️ Languages
+
+- English (Proficient) · Hindi (Native) · Bengali (Intermediate)
+
+---
+
+### 📫 Connect
+
+- Portfolio: https://kumammanish.github.io/
+- GitHub: https://github.com/kumam
+- LinkedIn: https://www.linkedin.com/in/kumam/
+
+*Updated with images, icons, and emojis.*
+
+<!-- PROFILE_SUMMARY_END -->
