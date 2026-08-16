@@ -5,9 +5,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kumammanish&label=Profile%20Views&color=0e75b6&style=flat-square" alt="kumammanish Views" />
-</p>
 
 ---
 
