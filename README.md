@@ -76,8 +76,6 @@ I am an **Azure Cloud Architect** and **FinOps Consultant** with over **14 years
 
 ---
 
-## 📊 GitHub Stats
-
 ## 📫 Connect with Me
 
 <p align="left">
