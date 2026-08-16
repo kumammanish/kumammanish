@@ -72,13 +72,13 @@ I am an **Azure Cloud Architect** and **FinOps Consultant** with over **14 years
 
 <p align="left">
   <a href="https://learn.microsoft.com/credentials/certifications/azure-ai-engineer-associate/" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Certified-Azure_AI_Engineer_Associate--AI--102-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Azure AI Engineer Associate" />
+    <img src="https://raw.githubusercontent.com/hotdogee/portfolio/master/src/certifications/images/microsoft-certified-ai-102-azure-ai-engineer-associate-2024-badge.png" height="70" alt="Azure AI Engineer Associate" />
   </a>
   <a href="https://learn.microsoft.com/credentials/certifications/azure-security-engineer/" target="_blank">
     <img src="https://raw.githubusercontent.com/kumammanish/az500/master/az500.png" height="70" alt="Azure Security Engineer Associate" />
   </a>
   <a href="https://learn.microsoft.com/credentials/certifications/azure-ai-fundamentals/" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Certified-Azure_AI_Fundamentals--AI--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Azure AI Fundamentals" />
+    <img src="https://raw.githubusercontent.com/gaurav-sarage/personal-portfolio/main/ai-900.png" height="70" alt="Azure AI Fundamentals" />
   </a>
 </p>
 
