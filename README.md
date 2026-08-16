@@ -1,6 +1,6 @@
 # Hi 👋, I'm Manish Kumar
 
-<p align="center">
+<p align="left">
   <b>Azure Cloud Architect • FinOps Consultant • Site Reliability & DevOps Engineer</b>
 </p>
 
