@@ -1,0 +1,77 @@
+{
+  "description": "Local repository of Microsoft certification badges for GitHub profile",
+  "created_at": "2026-08-16",
+  "total_badges": 7,
+  "note": "Three primary Microsoft certifications have PNG images downloaded locally. Other certifications use shields.io dynamic badges.",
+  "badges": [
+    {
+      "id": "ai-102",
+      "name": "Azure AI Engineer Associate",
+      "cert_code": "AI-102",
+      "issuer": "Microsoft",
+      "status": "active",
+      "learn_url": "https://learn.microsoft.com/credentials/certifications/azure-ai-engineer-associate/",
+      "credly_url": "https://www.credly.com/badges/c78c0d8e-9d62-4c5b-82e1-b0b3a3e80c2b",
+      "local_path": "./assets/badges/ai-102.png",
+      "download_status": "success"
+    },
+    {
+      "id": "az-500",
+      "name": "Azure Security Engineer Associate",
+      "cert_code": "AZ-500",
+      "issuer": "Microsoft",
+      "status": "active",
+      "learn_url": "https://learn.microsoft.com/credentials/certifications/azure-security-engineer/",
+      "credly_url": "https://www.credly.com/badges/a1a1a1a1-a1a1-a1a1-a1a1-a1a1a1a1a1a1",
+      "local_path": "./assets/badges/az-500.png",
+      "download_status": "success"
+    },
+    {
+      "id": "ai-900",
+      "name": "Azure AI Fundamentals",
+      "cert_code": "AI-900",
+      "issuer": "Microsoft",
+      "status": "active",
+      "learn_url": "https://learn.microsoft.com/credentials/certifications/azure-ai-fundamentals/",
+      "credly_url": "https://www.credly.com/badges/6ecbd6b6-6ea5-483f-9b17-8a8f5c5c9e0e",
+      "local_path": "./assets/badges/ai-900.png",
+      "download_status": "success"
+    },
+    {
+      "id": "azure-infrastructure-solutions",
+      "name": "Azure Infrastructure Solutions",
+      "cert_code": "Exam 534",
+      "issuer": "Microsoft",
+      "status": "legacy",
+      "badge_type": "shields.io",
+      "shields_io_url": "https://img.shields.io/badge/Microsoft-Azure_Infrastructure_Solutions-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"
+    },
+    {
+      "id": "exam-534",
+      "name": "Exam 534: Architecting Microsoft Azure Solutions",
+      "cert_code": "534",
+      "issuer": "Microsoft",
+      "status": "legacy",
+      "badge_type": "shields.io",
+      "shields_io_url": "https://img.shields.io/badge/Exam_534-Architecting_Microsoft_Azure_Solutions-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"
+    },
+    {
+      "id": "exam-533",
+      "name": "Exam 533: Implementing Microsoft Azure Solutions",
+      "cert_code": "533",
+      "issuer": "Microsoft",
+      "status": "legacy",
+      "badge_type": "shields.io",
+      "shields_io_url": "https://img.shields.io/badge/Exam_533-Implementing_Microsoft_Azure_Solutions-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"
+    },
+    {
+      "id": "mcs-hyperv",
+      "name": "MCS: Server Virtualization with Hyper-V",
+      "issuer": "Microsoft",
+      "status": "retired",
+      "badge_type": "shields.io",
+      "shields_io_url": "https://img.shields.io/badge/MCS-Server_Virtualization_with_Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"
+    }
+  ],
+  "migration_notes": "Three primary Microsoft 365 Azure certifications (AI-102, AZ-500, AI-900) are now stored locally. Legacy exam badges and ITIL/GitHub achievement badges use shields.io dynamic generation."
+}

@@ -72,23 +72,24 @@ I am an **Azure Cloud Architect** and **FinOps Consultant** with over **14 years
 
 <p align="left">
   <a href="https://learn.microsoft.com/credentials/certifications/azure-ai-engineer-associate/" target="_blank">
-    <img src="https://raw.githubusercontent.com/hotdogee/portfolio/master/src/certifications/images/microsoft-certified-ai-102-azure-ai-engineer-associate-2024-badge.png" height="70" alt="Azure AI Engineer Associate" />
+    <img src="assets/badges/ai-102.png" height="70" alt="Azure AI Engineer Associate" />
   </a>
   <a href="https://learn.microsoft.com/credentials/certifications/azure-security-engineer/" target="_blank">
-    <img src="https://raw.githubusercontent.com/kumammanish/az500/master/az500.png" height="70" alt="Azure Security Engineer Associate" />
+    <img src="assets/badges/az-500.png" height="70" alt="Azure Security Engineer Associate" />
   </a>
   <a href="https://learn.microsoft.com/credentials/certifications/azure-ai-fundamentals/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gaurav-sarage/personal-portfolio/main/ai-900.png" height="70" alt="Azure AI Fundamentals" />
+    <img src="assets/badges/ai-900.png" height="70" alt="Azure AI Fundamentals" />
   </a>
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft-Azure_Infrastructure_Solutions-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Azure Infrastructure Solutions" />
-  <img src="https://img.shields.io/badge/Exam_534-Architecting_Microsoft_Azure_Solutions-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Exam 534" />
-  <img src="https://img.shields.io/badge/Exam_533-Implementing_Microsoft_Azure_Solutions-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Exam 533" />
-  <img src="https://img.shields.io/badge/MCS-Server_Virtualization_with_Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="MCS Hyper-V" />
-  <img src="https://img.shields.io/badge/ITIL-Foundation_Certificate-4CAF50?style=for-the-badge" alt="ITIL Foundation" />
-  <img src="https://img.shields.io/badge/GitHub-GH--300-181717?style=for-the-badge&logo=github&logoColor=white" alt="GH-300" />
+  <img src="assets/badges/MCSA-2017.png" height="70" alt="MCSA 2017" />
+  <img src="assets/badges/Exam-Server-Virtualization-with-Windows.png" height="70" alt="MCS: Server Virtualization with Hyper-V" />
+  <img src="assets/badges/Exam-534.png" height="70" alt="Exam 534: Architecting Microsoft Azure Solutions" />
+  <img src="assets/badges/exam-533.png" height="70" alt="Exam 533: Implementing Microsoft Azure Solutions" />
+  <img src="assets/badges/gh-300.png" height="70" alt="GitHub: GH-300" />
+  <img src="assets/badges/ai_bootcamp.jpeg" height="70" alt="AI Bootcamp" />
+  <img src="https://img.shields.io/badge/ITIL-Foundation_Certificate-4CAF50?style=for-the-badge" height="70" alt="ITIL Foundation" />
 </p>
 
 ---
