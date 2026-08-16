@@ -1,0 +1,24 @@
+# Mermaid diagram files (generated locally, not committed)
+*.mmd
+*.mermaid
+
+# Copilot and AI assistant cache/temp files
+.copilot-cache/
+.copilot-temp/
+.vscode-copilot/
+
+# Mermaid Chart local cache
+.mermaid-cache/
+
+# VS Code AI extensions cache
+.vscode/copilot/
+.vscode/.copilot/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
