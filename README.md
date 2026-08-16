@@ -57,24 +57,21 @@ I am an **Azure Cloud Architect** and **FinOps Consultant** with over **14 years
 
 <p align="left">
   <a href="https://learn.microsoft.com/credentials/certifications/azure-ai-engineer-associate/" target="_blank">
-    <img src="assets/badges/ai-102.png" height="60" alt="Azure AI Engineer Associate" />
+    <img src="assets/badges/ai-102.png" height="55" alt="Azure AI Engineer Associate" />
   </a>
   <a href="https://learn.microsoft.com/credentials/certifications/azure-ai-fundamentals/" target="_blank">
-    <img src="assets/badges/ai-900.png" height="60" alt="Azure AI Fundamentals" />
+    <img src="assets/badges/ai-900.png" height="55" alt="Azure AI Fundamentals" />
   </a>
-  <img src="assets/badges/gh-300.png" height="60" alt="GitHub: GH-300" />
-  <img src="assets/badges/ai_bootcamp.jpeg" height="60" alt="AI Bootcamp" />
-</p>
-
-<p align="left">
+  <img src="assets/badges/gh-300.png" height="55" alt="GitHub: GH-300" />
+  <img src="assets/badges/ai_bootcamp.jpeg" height="55" alt="AI Bootcamp" />
   <a href="https://learn.microsoft.com/credentials/certifications/azure-security-engineer/" target="_blank">
-    <img src="assets/badges/az-500.png" height="60" alt="Azure Security Engineer Associate" />
+    <img src="assets/badges/az-500.png" height="55" alt="Azure Security Engineer Associate" />
   </a>
-  <img src="assets/badges/MCSA-2017.png" height="60" alt="MCSA 2017" />
-  <img src="assets/badges/Exam-Server-Virtualization-with-Windows.png" height="60" alt="MCS: Server Virtualization with Hyper-V" />
-  <img src="assets/badges/Exam-534.png" height="60" alt="Exam 534: Architecting Microsoft Azure Solutions" />
-  <img src="assets/badges/exam-533.png" height="60" alt="Exam 533: Implementing Microsoft Azure Solutions" />
-  <img src="assets/badges/itil_foundation.jpeg" height="60" alt="ITIL Foundation" />
+  <img src="assets/badges/MCSA-2017.png" height="55" alt="MCSA 2017" />
+  <img src="assets/badges/Exam-Server-Virtualization-with-Windows.png" height="55" alt="MCS: Server Virtualization with Hyper-V" />
+  <img src="assets/badges/Exam-534.png" height="55" alt="Exam 534: Architecting Microsoft Azure Solutions" />
+  <img src="assets/badges/exam-533.png" height="55" alt="Exam 533: Implementing Microsoft Azure Solutions" />
+  <img src="assets/badges/itil_foundation.jpeg" height="55" alt="ITIL Foundation" />
 </p>
 
 ---
