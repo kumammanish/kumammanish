@@ -89,14 +89,6 @@ I am an **Azure Cloud Architect** and **FinOps Consultant** with over **14 years
 
 ---
 
-## 🗣️ Languages
-
-* **English:** Proficient
-* **Hindi:** Native
-* **Bengali:** Intermediate
-
----
-
 ## 📫 Connect with Me
 
 <p align="left">
