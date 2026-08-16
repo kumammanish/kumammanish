@@ -89,7 +89,7 @@ I am an **Azure Cloud Architect** and **FinOps Consultant** with over **14 years
   <img src="assets/badges/exam-533.png" height="70" alt="Exam 533: Implementing Microsoft Azure Solutions" />
   <img src="assets/badges/gh-300.png" height="70" alt="GitHub: GH-300" />
   <img src="assets/badges/ai_bootcamp.jpeg" height="70" alt="AI Bootcamp" />
-  <img src="https://img.shields.io/badge/ITIL-Foundation_Certificate-4CAF50?style=for-the-badge" height="70" alt="ITIL Foundation" />
+  <img src="assets/badges/itil_foundation.jpeg" height="70" alt="ITIL Foundation" />
 </p>
 
 ---
