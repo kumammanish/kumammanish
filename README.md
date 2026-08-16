@@ -6,13 +6,6 @@
 
 
 <p align="center">
-  <a href="https://kumammanish.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-kumammanish.github.io-0a66c2?style=flat-square&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://github.com/kumammanish"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-kumammanish-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kumam/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kumam.manish@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kumam.manish@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=kumammanish&label=Profile%20Views&color=0e75b6&style=flat-square" alt="kumammanish Views" />
 </p>
 
@@ -69,10 +62,6 @@ I am an **Azure Cloud Architect** and **FinOps Consultant** with over **14 years
 * 🏗️ **Enterprise Azure IaC Templates**
   Reusable Terraform/ARM template libraries featuring automated validation, policy compliance checks, and secure multi-stage environments.
   
-* 🤖 **GitHub Achievement Unlocker**
-  A suite of automation bots for GitHub workflow achievements and contribution flow experiments.
-  [*Explore Repo ↗*](https://github.com/XTUFE/GitHub-Achievement-Unlocker)
-  
 * 📰 **AI News Console**
   A sample web-based console utilized for testing CI/CD validation and automated runs.
   [*Explore Repo ↗*](https://github.com/kumammanish/ai-news-console)
@@ -86,7 +75,7 @@ I am an **Azure Cloud Architect** and **FinOps Consultant** with over **14 years
     <img src="https://img.shields.io/badge/Microsoft_Certified-Azure_AI_Engineer_Associate--AI--102-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Azure AI Engineer Associate" />
   </a>
   <a href="https://learn.microsoft.com/credentials/certifications/azure-security-engineer/" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Security_Engineer--AZ--500-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Azure Security Engineer Associate" />
+    <img src="https://raw.githubusercontent.com/kumammanish/az500/master/az500.png" height="70" alt="Azure Security Engineer Associate" />
   </a>
   <a href="https://learn.microsoft.com/credentials/certifications/azure-ai-fundamentals/" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Certified-Azure_AI_Fundamentals--AI--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Azure AI Fundamentals" />
@@ -111,6 +100,14 @@ I am an **Azure Cloud Architect** and **FinOps Consultant** with over **14 years
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumammanish&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
+
+---
+
+## 🗣️ Languages
+
+* **English:** Proficient
+* **Hindi:** Native
+* **Bengali:** Intermediate
 
 ---
 
