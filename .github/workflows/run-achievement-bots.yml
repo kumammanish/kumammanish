@@ -1,0 +1,45 @@
+name: Run Achievement Bots (manual)
+
+on:
+  workflow_dispatch:
+    inputs:
+      repo:
+        description: 'Repository to run bots in (owner/repo)'
+        required: true
+        default: 'kumammanish/GitHub-Achievement-Unlocker'
+      bot:
+        description: 'Which bot to run (pair_shark/pull_shark/all)'
+        required: true
+        default: 'all'
+
+jobs:
+  run-bots:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: read
+    steps:
+      - name: Checkout target repo
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.event.inputs.repo }}
+          token: ${{ secrets.REPO_TOKEN }}
+          path: target-repo
+
+      - name: Install Python deps
+        run: |
+          python3 -m pip install --upgrade pip
+          python3 -m pip install requests
+        working-directory: target-repo
+
+      - name: Run selected bots (dry-run by default)
+        run: |
+          if [ "${{ github.event.inputs.bot }}" = "pair_shark" ] || [ "${{ github.event.inputs.bot }}" = "all" ]; then
+            echo "Would run Pair_Extraordinaire_Limited.py (requires REPO_TOKEN secret)"
+          fi
+          if [ "${{ github.event.inputs.bot }}" = "pull_shark" ] || [ "${{ github.event.inputs.bot }}" = "all" ]; then
+            echo "Would run Pull_Shark.py (requires REPO_TOKEN secret)"
+          fi
+        working-directory: target-repo
+
+# SECURITY: This workflow is manual and requires a REPO_TOKEN secret with limited scope. It intentionally performs a dry-run by default — uncomment or modify steps only after reviewing permissions.

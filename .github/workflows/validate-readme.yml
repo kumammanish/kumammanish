@@ -1,0 +1,20 @@
+name: Validate README
+
+on:
+  push:
+    paths:
+      - 'README.md'
+  workflow_dispatch:
+
+jobs:
+  lint-markdown:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run Markdown Lint
+        uses: github/super-linter@v4
+        env:
+          VALIDATE_MARKDOWN: true
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          args: --markdown
