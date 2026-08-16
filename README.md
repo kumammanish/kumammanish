@@ -95,4 +95,4 @@ I am an **Azure Cloud Architect** and **FinOps Consultant** with over **14 years
   <a href="mailto:kumam.manish@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-*This README was updated to remove redundancies and optimize layout presentation.*
+
