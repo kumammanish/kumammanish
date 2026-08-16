@@ -79,9 +79,13 @@ I am an **Azure Cloud Architect** and **FinOps Consultant** with over **14 years
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumammanish&show_icons=true&theme=tokyonight" alt="Manish Kumar's GitHub Stats" height="150" />
+  <a href="https://github.com/kumammanish">
+    <img src="https://github-readme-stats.vercel.app/api?username=kumammanish&show_icons=true&theme=tokyonight" alt="Manish Kumar's GitHub Stats" height="150" />
+  </a>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumammanish&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  <a href="https://github.com/kumammanish">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumammanish&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  </a>
 </p>
 
 ---
