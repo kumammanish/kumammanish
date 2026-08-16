@@ -99,11 +99,40 @@ The README includes a dynamic profile view counter from `komarev.com/ghpvc/`. To
 - Consider periodic snapshots via GitHub Actions if deeper analytics are needed
 
 ### GitHub Stats Cards
-The README uses dynamic stats from `github-readme-stats.vercel.app/`:
-- **Stats card**: `api?username=kumammanish&show_icons=true&theme=tokyonight`
-- **Languages card**: `top-langs/?username=kumammanish&layout=compact&theme=tokyonight`
+The README includes two dynamic GitHub statistics cards from `github-readme-stats.vercel.app`:
 
-These auto-update from live GitHub data; no manual maintenance needed.
+**Stats Card URL**: Shows contributions, commits, pull requests, issues, and stars
+```
+api?username=kumammanish&show_icons=true&theme=tokyonight&cache_seconds=1800&include_all_commits=true
+```
+- `cache_seconds=1800`: Refreshes every 30 minutes (default is 6 hours)
+- `include_all_commits=true`: Counts commits across all branches
+- `theme=tokyonight`: Purple-tinted dark theme
+
+**Top Languages Card URL**: Shows most-used programming languages
+```
+api/top-langs/?username=kumammanish&layout=compact&theme=tokyonight&hide=html,css,dockerfile,shell,makefile,gitignore&cache_seconds=1800
+```
+- `layout=compact`: Horizontal bar layout for space efficiency
+- `hide=html,css,dockerfile,shell,makefile,gitignore`: Filters out markup/config languages
+- `cache_seconds=1800`: Refreshes every 30 minutes
+
+**Parameters Explanation**:
+- Both cards require `username=kumammanish`
+- Theme options: `default`, `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `dracula`, `highcontrast`, etc.
+- `hide` parameter on top-langs accepts comma-separated language names
+- `cache_seconds`: Set to 1800 (30 min) for fresher data; set to 0 to force refresh
+
+**Troubleshooting**:
+- If stats don't load: Service may be temporarily down (github-readme-stats.vercel.app)
+- If stats show old data: Wait 30 minutes for cache refresh, or visit URL directly to force cache clear
+- If languages seem off: Ensure files have correct extensions; .html files are filtered via `hide=html`
+
+### Profile View Tracking
+The README includes a dynamic profile view counter from `komarev.com/ghpvc/`. To monitor trends:
+- The badge URL: `https://komarev.com/ghpvc/?username=kumammanish&label=Profile%20Views&color=0e75b6&style=flat-square`
+- Track historical views by logging the count over time
+- Consider periodic snapshots via GitHub Actions if deeper analytics are needed
 
 ### Future Analytics Integration
 If you need to track profile engagement over time:
